@@ -12,3 +12,6 @@ The project is structured in this way:
 - exploratory data analysis 
 - model training, tuning and evaluation
 - model comparison
+
+
+![roc_curves](https://user-images.githubusercontent.com/114148028/196925255-955a2a71-e8fc-4cc3-885b-60e70e1b2efe.png)
